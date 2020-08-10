@@ -1,5 +1,3 @@
-# Matcha-tea
-
 ## Чай Матча — что это за напиток и какой он на вкус
 
 ![Branching](chay-matcha.jpg)
